@@ -1,0 +1,19 @@
+[
+  {
+    "repository"  : "device_oneplus_sm8150-common",
+    "target_path" : "device/oneplus/sm8150-common"
+  },
+  {
+    "repository"  : "device_oneplus_common",
+    "target_path" : "device/oneplus/common"
+  },
+  {
+    "repository"  : "AOSiP-Devices/kernel_oneplus_sm8150",
+    "target_path" : "kernel/oneplus/sm8150",
+    "branch" : "ten"
+  },
+  {
+    "repository"  : "vendor_oneplus",
+    "target_path" : "vendor/oneplus"
+  }
+]
