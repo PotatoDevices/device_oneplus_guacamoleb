@@ -10,7 +10,7 @@
   {
     "repository"  : "AOSiP-Devices/kernel_oneplus_sm8150",
     "target_path" : "kernel/oneplus/sm8150",
-    "branch" : "ten"
+    "branch"      : "fod-extension"
   },
   {
     "repository"  : "vendor_oneplus",
